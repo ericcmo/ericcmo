@@ -21,7 +21,7 @@
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-    <a href="https://linkedin.com/in/eric-casanova" target="blank">
+    <a href="https://linkedin.com/in/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="eric-casanova" height="25" width="35" />
     </a>
 </p>
